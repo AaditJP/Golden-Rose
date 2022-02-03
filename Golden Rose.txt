@@ -1,0 +1,14 @@
+Name of the project : Golden Rose
+
+Story behind the game : 2 guys who fell in love unfortunately with the same girl  , have to prove their love for her by going through a maze to find the GOLDEN ROSE.
+                        Whoever gets the golden rose first gets the girl , sadly leaving the other guy heartbroken.
+
+Rules of the game : Each guy has 3 lives  , anytime one of the guys fall into a trap they lose a life.
+
+Goal of the game : To find the GOLDEN ROSE first and win over the girl.
+
+PC AND NPC : PC will be the 2 people playing to find the rose . NPC will be the various traps , the golden rose.
+
+Skill vs Chance : Skill will be how the players overcome the traps.Chance will be collecting coins while finding the rose.
+
+Mechanics of the game : We will use the W A S D keys to move the player.
